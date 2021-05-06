@@ -1,0 +1,10 @@
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:tem="http://tempuri.org/">
+    <soap:Header/>
+    <soap:Body>
+
+        <tem:GetCurrencyRates>
+            <tem:RateDate>2021-03-29</tem:RateDate>
+        </tem:GetCurrencyRates>
+
+    </soap:Body>
+</soap:Envelope>
